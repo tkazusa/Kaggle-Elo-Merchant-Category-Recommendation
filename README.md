@@ -37,4 +37,4 @@ TBD
 ## References
 - https://www.kaggle.com/chauhuynh/my-first-kernel-3-699
 - https://amalog.hateblo.jp/entry/elo-merchant-category-recommendation
-
+- https://qiita.com/makotu1208/items/f10855aec2e67b4a44d1
